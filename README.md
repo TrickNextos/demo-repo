@@ -2,8 +2,10 @@
 
 read me for a test repository
 
-## podnaslov
+## whats about
 
-kot vidite mi zmanjkuje dobišljije :)
-(as you can see, I'm running out of ideas)
-test
+My repo is about practice with git. Don't judge.
+
+## local Development
+
+1. open index.html in your browser
